@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(180, 77, 49);
+  color: darksalmon;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  font-weight: 5;
+}
+
+/*
+header {
+  background-color: aqua;
+}
+
+nav {
+  background-color: blue;
+}
+
+h1 {
+  background-color: blueviolet;
+}
+
+p {
+  background-color: bisque;
+}
+
+ul {
+  background-color: chocolate;
+}
+*/
+li {
+  background-color: cornflowerblue;
+  padding: 0%;
+
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: brown;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: pink;
+}

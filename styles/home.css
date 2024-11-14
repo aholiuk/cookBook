@@ -1,52 +1,32 @@
 body {
-  background-color: rgb(180, 77, 49);
-  color: darksalmon;
+  background-color: rgba(205, 169, 110, 0.909);
+  color: black;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: large;
   font-weight: 5;
 }
 
-/*
-header {
-  background-color: aqua;
-}
-
-nav {
-  background-color: blue;
-}
-
 h1 {
-  background-color: blueviolet;
-}
-
-p {
-  background-color: bisque;
+  text-align: center;
 }
 
 ul {
-  background-color: chocolate;
+  list-style-type: none;
+  text-align: center;
 }
-*/
-li {
-  background-color: cornflowerblue;
-  padding: 0%;
 
+li {
+  padding: 1%;
 }
 
 a:link {
-  color: green;
-  background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  background-color: brown;
-}
-
-a:active {
-  text-decoration: underline;
+  background-color: rgba(184, 141, 72, 0.909);
 }
 
 a:visited {
-  color: pink;
+  color: black;
 }
